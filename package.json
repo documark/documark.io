@@ -1,0 +1,12 @@
+{
+  "name": "documark.io",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Documark's website.",
+  "main": "index.js",
+  "author": "Maurits van Mastrigt <maurits@nerdieworks.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "request": "^2.53.0"
+  }
+}
